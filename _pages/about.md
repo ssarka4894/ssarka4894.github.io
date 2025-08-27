@@ -25,7 +25,10 @@ Tempe, Arizona 85281
 Email: ssarka30@asu.edu, ssarka.corporate@gmail.com
 
 
+<a href='https://clustrmaps.com/site/1c7rs'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=794&t=n&d=HuREum5NamMCzpxrV2Byr6k6kRrphkCEyLI3xMjxK_0'/></a>
+
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=HuREum5NamMCzpxrV2Byr6k6kRrphkCEyLI3xMjxK_0"></script>
 
-<a href='https://clustrmaps.com/site/1c7rs'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=794&t=n&d=HuREum5NamMCzpxrV2Byr6k6kRrphkCEyLI3xMjxK_0'/></a>
+
+
