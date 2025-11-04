@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral student coadvised by Dr. Jennie Si and Dr. Konstantinos Tsakalis at Ira. A. Fulton Schools of Engineering studying in Arizona State University.
+I am a doctoral student coadvised by Dr. Jennie Si(https://search.asu.edu/profile/48345) and Dr. Konstantinos Tsakalis(https://search.asu.edu/profile/105332) at Ira. A. Fulton Schools of Engineering studying in Arizona State University.
 My main research focuses on Adaptive Dynamic Programming, Optimal Control, Deep Reinforcement Learning. Academic graduate and undergraduate Instructor and Teaching Excellence Award Recipient. Currently
 instructing on control software and robotic hardware integration. Aspiring to advance my comprehensive skills in an impactful engineering role at an innovation-driven and user-empowering organization.
 
