@@ -1,6 +1,6 @@
 ---
-title: "NeuroStride"
-excerpt: "An RL based Simscape Framework for Ankle Orthosis Assistance<br/><img src='/images/500x300.png'>"
+title: "VertiCore"
+excerpt: "A Pontryagin Differential Programming (PDP) Framework for Stabilization<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
