@@ -1,7 +1,9 @@
 ---
-title: "PathSmith"
-excerpt: "A multi-robot ROS based interface to emulate warehouse operations<br/><img src='/images/500x300.png'>"
+title: "NeuroMentor "
+excerpt: "An LLM-based GPU Accelerated AI Tutor<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+♦ Developed a custom sentence embeddings model using LLaMA 3 8B, cutting hallucinations by 52%
+♦ Applied RAG with a refined knowledge base improving retrieval accuracy by 38%
+♦ Enabled end-to-end source traceability, boosting user trust and computational benchmarks by 57%
