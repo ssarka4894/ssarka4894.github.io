@@ -4,4 +4,6 @@ excerpt: "An RL based Simscape Framework for Ankle Orthosis Assistance<br/><img 
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+♦ Boosted gait cycle accuracy by 50% using Simulink and Simscape to simulate orthosis-assisted gait
+♦ Improved target-reaching by 60% via DQN, DDPG, PPO-based control for ankle-foot orthosis
+
