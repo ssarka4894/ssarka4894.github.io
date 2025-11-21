@@ -4,4 +4,8 @@ excerpt: "A multi-robot ROS based interface to emulate warehouse operations<br/>
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+♦ Developed 5+ static/dynamic path planning frameworks using (RRT, RRG, PRM, etc) with DDRs
+♦ Improved coverage efficiency by 45% emulating semi-structured warehouses using GAZEBO
+♦ Implemented SLAM and MPC-based collision avoidance, achieving 92% task success
+♦ Downscaled manual oversight by 30% and enabling scalable coordination (flocking)
+
