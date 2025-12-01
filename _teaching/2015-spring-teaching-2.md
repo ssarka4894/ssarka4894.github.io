@@ -1,5 +1,5 @@
 ---
-title: "EEE 481: Computer Controlled Systems"
+title: "EEE 481/591: Computer Controlled Systems"
 collection: Instructor
 type: "Undergraduate/Graduate Level Course"
 permalink: /teaching/2015-spring-teaching-2
