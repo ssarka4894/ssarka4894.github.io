@@ -8,7 +8,9 @@ date: 2025-08-22
 location: "AZ, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- Improved student comprehension by 90% through interactive MATLAB/Simulink simulations
+- Accelerated learning outcomes by 40% via hands-on modules for embedded hardware integration
+- Led Robotic Control Systems course for 50+ students maintaining academic rigor with updated lectures, labs, and assessments
 
 Heading 1
 ======
