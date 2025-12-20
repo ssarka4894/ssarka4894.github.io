@@ -20,7 +20,7 @@ Semester: Spring 2024
 =====================
 1. Lecture 1: Introduction
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-9bwETTIJpk?si=-YNzWYcpcMwBan2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BrQyBCaE5BA?si=2CseYw7JWXnsjjPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 2. Lecture 2:
 
