@@ -2,12 +2,17 @@
 title: "EEE 481/591: Computer Controlled Systems"
 collection: Instructor
 type: "Undergraduate/Graduate Level Course"
-permalink: /teaching/2015-spring-teaching-2
+permalink: /teaching/2024-spring-teaching-1
 venue: "Arizona State University, ECEE, Ira. A. Fulton School of Engineering"
 date: 01-2024 to Current
 location: "Tempe, AZ, United States"
 ---
 
+- Discuss the principles of operation of common sensors and actuators, A/D-D/A converters.
+- Apply basic definitions in measurements.
+- Apply standard design techniques for common control algorithms.
+- Analyze issues related to controller discretization and signal/parameter quantization.
+- Use computer software to implement embedded controllers.
 
 Semester: Spring 2024 
 =====================
