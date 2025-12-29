@@ -1,5 +1,5 @@
 ---
-title: "EEE 480/591: Feedback Systems"
+title: "EEE 591/480: Feedback Systems"
 collection: teaching
 type: "Undergraduate/Graduate Level course"
 permalink: /teaching/2024-spring-teaching-2
@@ -9,13 +9,3 @@ location: "TEMPE, AZ, United States"
 ---
 
 
-<!--
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
--->
