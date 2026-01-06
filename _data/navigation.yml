@@ -24,7 +24,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /files/sohamsarkar_resume.pdf
+    url: /files/soham_sarkar_resume.pdf
     external: true
     
   # - title: "Guide"
