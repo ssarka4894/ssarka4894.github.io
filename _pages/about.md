@@ -8,12 +8,7 @@ redirect_from:
 ---
 
 
-[/I am a doctoral student coadvised by [Dr. Jennie Si](https://search.asu.edu/profile/48345) and [Dr. Konstantinos Tsakalis](https://search.asu.edu/profile/105332) at Ira. A. Fulton Schools of Engineering studying in Arizona State University.
-My main research focuses on Adaptive Dynamic Programming, Optimal Control, Deep Reinforcement Learning. Academic graduate and undergraduate Instructor and Teaching Excellence Award Recipient. Currently
-instructing on control software and robotic hardware integration. Aspiring to advance my comprehensive skills in an impactful engineering role at an innovation-driven and user-empowering organization./]
-
-
-I am a Ph.D. candidate coadvised by [Dr. Jennie Si](https://search.asu.edu/profile/48345) and [Dr. Konstantinos Tsakalis](https://search.asu.edu/profile/105332) at Ira. A. Fulton Schools of Engineering at Arizona State University, where I work at the intersection of robotics, control theory, reinforcement learning, and embedded intelligence. My research focuses on developing autonomous systems that can learn, adapt, and make reliable decisions in the real world.
+I am a Ph.D. candidate coadvised by [Dr. Jennie Si](https://search.asu.edu/profile/48345) and [Dr. Konstantinos Tsakalis](https://search.asu.edu/profile/105332) at Ira. A. Fulton Schools of Engineering at Arizona State University, where I work at the intersection of robotics, control theory, adaptive dynamic Programming, optimal control, deep reinforcement learning and embedded intelligence. My research focuses on developing autonomous systems that can learn, adapt, and make reliable decisions in the real world.
 
 My goal is to bridge the gap between advanced AI algorithms and physical robotic systems. I design learning-enabled controllers for complex dynamical platforms, ranging from self-balancing robots and autonomous mobile systems to multi-agent robotic networks. By combining model-based control methods with reinforcement learning, I develop systems capable of operating safely and efficiently in uncertain, real-world environments.
 
@@ -40,10 +35,6 @@ Tempe, Arizona 85281
 Email: ssarka30@asu.edu, ssarka.corporate@gmail.com
 
 
-<a href="https://mapmyvisitors.com/web/1c4wo"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=ilwimEYVTkTdqclLujXZoCL4aGV5UuIeGLZHnBNM-Cw&cl=ffffff" /></a>
-
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=HuREum5NamMCzpxrV2Byr6k6kRrphkCEyLI3xMjxK_0"></script>
-
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=9J088P24dNVGO2YHhtuoDy1Ctti-bNp5nb_4ZlttjUc"></script>
 
 
