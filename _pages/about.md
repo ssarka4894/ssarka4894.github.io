@@ -7,9 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral student coadvised by [Dr. Jennie Si](https://search.asu.edu/profile/48345) and [Dr. Konstantinos Tsakalis](https://search.asu.edu/profile/105332) at Ira. A. Fulton Schools of Engineering studying in Arizona State University.
+
+[/I am a doctoral student coadvised by [Dr. Jennie Si](https://search.asu.edu/profile/48345) and [Dr. Konstantinos Tsakalis](https://search.asu.edu/profile/105332) at Ira. A. Fulton Schools of Engineering studying in Arizona State University.
 My main research focuses on Adaptive Dynamic Programming, Optimal Control, Deep Reinforcement Learning. Academic graduate and undergraduate Instructor and Teaching Excellence Award Recipient. Currently
-instructing on control software and robotic hardware integration. Aspiring to advance my comprehensive skills in an impactful engineering role at an innovation-driven and user-empowering organization.
+instructing on control software and robotic hardware integration. Aspiring to advance my comprehensive skills in an impactful engineering role at an innovation-driven and user-empowering organization./]
+
+
+I am a Ph.D. candidate coadvised by [Dr. Jennie Si](https://search.asu.edu/profile/48345) and [Dr. Konstantinos Tsakalis](https://search.asu.edu/profile/105332) at Ira. A. Fulton Schools of Engineering at Arizona State University, where I work at the intersection of robotics, control theory, reinforcement learning, and embedded intelligence. My research focuses on developing autonomous systems that can learn, adapt, and make reliable decisions in the real world.
+
+My goal is to bridge the gap between advanced AI algorithms and physical robotic systems. I design learning-enabled controllers for complex dynamical platforms, ranging from self-balancing robots and autonomous mobile systems to multi-agent robotic networks. By combining model-based control methods with reinforcement learning, I develop systems capable of operating safely and efficiently in uncertain, real-world environments.
+
+A central theme of my work is Hardware-in-the-Loop Learning and Sim-to-Real Transfer. I build complete experimental pipelines that connect simulation, embedded computing, sensing, and control, allowing intelligent algorithms to move beyond benchmarks and operate on physical hardware. My research spans optimal control, trajectory planning, system identification, reinforcement learning, state estimation, and real-time deployment on embedded robotic platforms.
+
+Beyond research, I am passionate about engineering systems end-to-end. I enjoy transforming ideas into working technology; whether that means deriving mathematical models, developing learning algorithms, designing embedded software, integrating sensors, or troubleshooting hardware in the lab. I believe the most impactful innovations emerge when theory meets implementation.
+
+I also serve as an Instructor of Record and mentor, teaching courses in controls, robotics, and engineering design. Working with students has strengthened my belief that education and research are deeply connected: both involve exploring uncertainty, solving challenging problems, and continuously learning.
+
+Looking ahead, I am excited about building the next generation of intelligent robotic systems—machines that can learn from experience, collaborate with humans, and operate reliably in dynamic environments. My long-term vision is to contribute to the development of embodied AI that can bridge perception, decision-making, and control in the physical world.
+
 
 # Contact Information
 
@@ -25,7 +40,7 @@ Tempe, Arizona 85281
 Email: ssarka30@asu.edu, ssarka.corporate@gmail.com
 
 
-<a href='https://clustrmaps.com/site/1c7rs'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=794&t=n&d=HuREum5NamMCzpxrV2Byr6k6kRrphkCEyLI3xMjxK_0'/></a>
+<a href="https://mapmyvisitors.com/web/1c4wo"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=ilwimEYVTkTdqclLujXZoCL4aGV5UuIeGLZHnBNM-Cw&cl=ffffff" /></a>
 
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=HuREum5NamMCzpxrV2Byr6k6kRrphkCEyLI3xMjxK_0"></script>
