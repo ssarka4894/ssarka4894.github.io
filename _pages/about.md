@@ -18,7 +18,7 @@ Beyond research, I am passionate about engineering systems end-to-end. I enjoy t
 
 I also serve as an Instructor of Record and mentor, teaching courses in controls, robotics, and engineering design. Working with students has strengthened my belief that education and research are deeply connected: both involve exploring uncertainty, solving challenging problems, and continuously learning.
 
-Looking ahead, I am excited about building the next generation of intelligent robotic systems—machines that can learn from experience, collaborate with humans, and operate reliably in dynamic environments. My long-term vision is to contribute to the development of embodied AI that can bridge perception, decision-making, and control in the physical world.
+Looking ahead, I am excited about building the next generation of intelligent robotic systems i.e machines that can learn from experience, collaborate with humans, and operate reliably in dynamic environments. My long-term vision is to contribute to the development of embodied AI that can bridge perception, decision-making, and control in the physical world.
 
 
 # Contact Information
